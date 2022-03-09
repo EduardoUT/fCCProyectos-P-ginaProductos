@@ -51,4 +51,4 @@ el objetivo.
 
 **Vista Previa:**
 
-![Vista Previa Portafolio Web](https://raw.githubusercontent.com/EduardoUT/fCCProyectos-PaginaProductos/master/assets/img/readme/Productos_freeCodeCamp.PNG)
+![Vista Previa Productos](https://raw.githubusercontent.com/EduardoUT/fCCProyectos-PaginaProductos/master/assets/img/readme/Productos_freeCodeCamp.PNG)
